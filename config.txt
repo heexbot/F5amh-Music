@@ -1,6 +1,6 @@
-token=NDM2OTM4NzAzNzY0NTg2NTA2.DvzhcA.V9mefB6tkKLjmuUlI1ZaOTtBvng
-owner=323888904602124299
-prefix= G
-game= Gplay l Ghelp
+token=NDQwODQ0OTI1MzI4ODE4MTg2.DvzoAQ.CC-32_67uGCyLNUZIKRkNxFSFvc
+owner=331372785068802049
+prefix= f
+game= Fplay l Fhelp
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
